@@ -1,5 +1,5 @@
 # HealthGraph: Triage Agent in Jaclang
-import:py os;
+import os;
 
 enum SymptomSeverity {
     MILD,
